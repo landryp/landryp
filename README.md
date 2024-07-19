@@ -14,3 +14,7 @@
 **Programming Languages.** Python - Bash - SQL - C \
 **Packages.** Scipy - Pandas - Scikit-learn - Matplotlib - Seaborn \
 **Computer Algebra.** Mathematica - Matlab
+
+### Research
+
+**Publications.** [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=landry%2C+philippe&terms-0-field=author&terms-1-operator=OR&terms-1-term=landry%2C+p&terms-1-field=author&terms-2-operator=NOT&terms-2-term=landry%2C+m+p&terms-2-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first) - [Google Scholar](https://scholar.google.com/citations?user=aS1a3oEAAAAJ&hl=en&oi=ao) - [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/HyI9Hdj0T-ODCV2k0gt4tA) - [INSPIRE](https://inspirehep.net/authors/1500916?ui-citation-summary=true)
