@@ -11,6 +11,6 @@
 
 ### Skills
 
-**Programming Languages** Python - Bash - SQL - C
-**Packages** Scipy - Pandas - Scikit-learn - Matplotlib - Seaborn
-**Computer Algebra** Mathematica - Matlab
+**Programming Languages.** Python - Bash - SQL - C \
+**Packages.** Scipy - Pandas - Scikit-learn - Matplotlib - Seaborn \
+**Computer Algebra.** Mathematica - Matlab
