@@ -1,6 +1,6 @@
 ## Hello!
 
-**I'm a postdoctoral researcher at the Canadian Institute for Theoretical Astrophysics (University of Toronto).** I develop and apply data-driven statistical methods to learn about the universe's black holes & neutron stars. I use gravitational wave observations of these dead stars to answer fundamental questions about nuclear physics, strong gravity & the history of the cosmos.
+**I'm a postdoctoral researcher at the Canadian Institute for Theoretical Astrophysics (University of Toronto).** I develop and apply data-driven statistical methods to learn about the universe's black holes & neutron stars. I use gravitational wave observations of these dead stars to answer fundamental questions about nuclear physics, strong gravity & cosmology.
 
 ### Projects
 
