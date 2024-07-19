@@ -9,7 +9,7 @@
 * **[mock-bns-pop](https://github.com/landryp/mock-bns-pop).**  Simulation of a binary neutron star merger population and calculation of Fisher matrix parameter uncertainties
 * **[em-dash](https://github.com/landryp/em-dash).**  Visualization of remnant matter predictions for compact binary mergers
 
-### Skills
+### Programming
 
 **Programming Languages.**  Python - Bash - SQL - C \
 **Packages.**  Scipy - Pandas - Scikit-learn - Matplotlib - Seaborn \
